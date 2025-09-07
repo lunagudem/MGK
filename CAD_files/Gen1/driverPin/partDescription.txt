@@ -1,0 +1,3 @@
+Sits between the legs and rotates.
+The square platform allows for installation of different parts, nerf gun, laser etc.
+The rotating pin determines the z axis the turret is pointing at.

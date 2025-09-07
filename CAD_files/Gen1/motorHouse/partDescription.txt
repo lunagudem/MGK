@@ -1,0 +1,4 @@
+Is used to house a 28BYJ motor.
+The motor rotates the platform.
+The housing is fastened with 4 m10 bolts.
+And the motor is fastened to the housing with 2 m4 bolts

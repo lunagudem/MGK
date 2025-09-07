@@ -1,0 +1,2 @@
+Washer with 8mm inner diameter fitting onto the driverPin
+with the purpose of locking it in place around the bearings.

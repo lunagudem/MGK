@@ -1,0 +1,3 @@
+Two of these are to be positioned opposite of each other on the platform.
+The holes fit 2 608 bearings allowing the driverPin to rotate smoothly.
+The holes in the bottom align with the platform and fit 15mm m10 bolts
